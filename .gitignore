@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#custom
+Note.txt
+/src/Bai-tap1
+/src/Bai-tap2
