@@ -41,3 +41,26 @@ code {
   background-color: black;
   padding: 10px 0;
 }
+.title {
+  color: red;
+  text-align: center;
+  margin: 20px 0;
+}
+.img__movie {
+  height: 400px;
+  width: 100%;
+}
+.card-title {
+  height: 50px;
+}
+.mota {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  /* autoprefixer: off */
+  -webkit-box-orient: vertical;
+  /* stylelint-disable-next-line value-no-vendor-prefix */
+  display: -webkit-box;
+  line-height: 25px;
+  height: 75px;
+}
