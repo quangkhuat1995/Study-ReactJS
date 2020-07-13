@@ -19,7 +19,7 @@ export default class BaitapList extends Component {
             <img
               className="card-img-top img__movie"
               src={movie.hinhAnh}
-              alt=""
+              alt={movie.biDanh}
             />
             <div className="card-body">
               <h4 className="card-title">{movie.tenPhim}</h4>
